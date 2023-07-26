@@ -1,2 +1,7 @@
 hello raman suman
+<<<<<<< HEAD
 hello jyoti pandey
+=======
+namaste
+parnam
+>>>>>>> fd9ffd7782cd6d7f4ee2851c4f280055601ba03f
